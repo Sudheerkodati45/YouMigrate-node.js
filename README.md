@@ -14,4 +14,4 @@ A NodeJS application to migrate Youtube subscriptions from one account to anothe
 * The browser is automatically opened when the app is run.
 * The First Google Login account is the producer of the Youtube Subscriptions. After authorization you are immediately redirected to the consumer Google account.
 
-The progress and number of subscriptions are displayed in the console.
+The progress and number of subscriptions are displayed in the console
